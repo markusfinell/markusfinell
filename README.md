@@ -5,5 +5,3 @@ My name is Markus Finell. I have been building websites, plugins and themes with
 - eating vegan burgers
 - running ultramarathons
 - spooning with my dog
-- spooning with my wife
-- writing incorrectly prioritized lists
